@@ -9,7 +9,7 @@ end
 def find_min_value(array)
   # Add your solution here
   a = 0
-while array[a] do 
+while array[a] do
 
 
   a = a + 1
