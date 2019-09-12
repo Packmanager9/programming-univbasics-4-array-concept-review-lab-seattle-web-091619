@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
   c = 0
 while array[a] do
 
-if array[a] == value_to_find do
+if array[a] == value_to_find
 
   c = a
   a = a + 1
