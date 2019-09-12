@@ -8,10 +8,12 @@ while array[a] do
 if array[a] == value_to_find
 
   c = a
-  a = a + 1
+
+end
+a = a + 1
+
 end
 c
-end
 end
 
 def find_max_value(array)
