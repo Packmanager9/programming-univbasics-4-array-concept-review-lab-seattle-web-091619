@@ -13,10 +13,7 @@ def find_min_value(array)
   c = 0
 while array[a] do
 
-if b > array[a] do
-  b = array[a]
-  c = a
-end
+b =Math.min(b, array[a])
 
   a = a + 1
 end
