@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
   # Add your solution here
   b = array[0]
   a = 0
-  c = 0
+  c = nil
 while array[a] do
 
 if array[a] == value_to_find
