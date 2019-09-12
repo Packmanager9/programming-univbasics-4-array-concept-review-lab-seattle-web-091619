@@ -6,11 +6,11 @@ def find_element_index(array, value_to_find)
 while array[a] do
 
 if array[a] == value_to_find do
-  
+
   c = a
   a = a + 1
 end
-b
+c
 end
 end
 
