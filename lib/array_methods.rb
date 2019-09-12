@@ -8,7 +8,7 @@ end
 
 def find_min_value(array)
   # Add your solution here
-  b = attay[0]
+  b = array[0]
   a = 0
   c = 0
 while array[a] do
